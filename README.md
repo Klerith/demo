@@ -1,7 +1,7 @@
-#Demo Project
-This is a simple readme file.
+###Demo Project
+Este es parte de un tutorial
 
-# Hola de nuevo
+#Hola de nuevo
 Espero que no sea un problema.
 
 #IMPORTANTE
